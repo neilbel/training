@@ -4,3 +4,4 @@ Un repository pour mes exercices d'entraînement :
 * C
 * HTML/CSS/javascript/PHP/SQL
 * Blender
+* Photographie
