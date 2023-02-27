@@ -1,3 +1,10 @@
+"""
+Neil Bel Hadj
+exo pour inverser l'ordre des éléments dans un tableau
+une version qui modifie le tableau lui-même
+l'autre créé un nouveau (inversé) et le renvoie
+"""
+
 def reverse(t):
     i=0
     j=len(t)-1
