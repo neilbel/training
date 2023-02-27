@@ -1,3 +1,9 @@
+"""
+Neil Bel Hadj
+mon premier programme qui dessine des pixels avec pygame
+il met des pixels random sur tout l'écran
+"""
+
 import sys, pygame, random
 pygame.init()
  
