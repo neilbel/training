@@ -1,5 +1,5 @@
 J'ai testé la bibliothèque pygame :
-* [pyg_random.py](./pyg_random.py) colorie l'écran avec des couleurs random 
+* [pyg_random.py](./pyg_random.py) colorie l'écran avec des couleurs prises en random 
 
 ![pyg_random.png](./pyg_random.png)
 
