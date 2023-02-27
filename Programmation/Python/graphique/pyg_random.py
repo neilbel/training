@@ -7,9 +7,11 @@ il met des pixels random sur tout l'écran
 import sys, pygame, random
 pygame.init()
  
-size = width, height = 640, 480
+size = width, height = 320, 240
  
-screen = pygame.display.set_mode(size, pygame.FULLSCREEN, vsync = 1)
+# le FULLSCREEN ne fonctionne pas toujours très bien
+# screen = pygame.display.set_mode(size, pygame.FULLSCREEN, vsync = 1)
+screen = pygame.display.set_mode(size, vsync = 1)
 
 while True:
     for event in pygame.event.get():
